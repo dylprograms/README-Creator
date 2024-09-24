@@ -1,8 +1,10 @@
 // TODO: Include packages needed for this application
 import inquirer from 'inquirer';
 import fs from 'fs';
-import color from 'colors';
-import generateMarkdown from './utils/generateMarkdown';
+import generateMarkdown from "./utils/generateMarkdown.js";
+import renderLicenseBadge from "./utils/generateMarkdown.js";
+import renderLicenseLink from "./utils/generateMarkdown.js";
+import renderLicenseSection from "./utils/generateMarkdown.js";
 
 
 // TODO: Create an array of questions for user input
@@ -11,6 +13,7 @@ const questions = [
         type: 'input',
         message: 'What is the title of your project?',
         name: 'title',
+        
     },
     {
         type: 'input',
@@ -47,6 +50,12 @@ const questions = [
         message: 'Enter your email address',
         name: 'email',
     },
+    {
+        type: 'list',
+        message: 'Choose a license for your project',
+        name: 'license',
+        choices: ['MIT', 'GNU',],
+    },
 ];
 
 // TODO: Create a function to write README file
@@ -66,6 +75,7 @@ function init() {
     inquirer.prompt(questions)
         .then((response) => {
             const markdown = generateMarkdown(response);
+
             writeToFile('README.md', markdown);
         });
 }
