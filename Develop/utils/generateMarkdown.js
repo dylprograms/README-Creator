@@ -76,7 +76,7 @@ function generateMarkdown(data) {
 
     ## Questions
 
-    If you would like to contact me, please use my email or github username: ${data.username}, ${data.email}
+    If you would like to contact me, please use my email or github username: [${data.username}](https://github.com/dylprograms/NodeJSProject), ${data.email}
 `;
 }
 
