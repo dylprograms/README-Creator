@@ -7,12 +7,17 @@ creates a way for inputing information via CLI prompts to create a readme
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
-installation [installation](#installation)
-usage [usage](#usage)
-contribution [contribution](#contribution)
-tests [tests](#tests) 
-License [License](#License)
-questions [Questions](#Questions)
+[installation](#installation)
+
+[usage](#usage)
+
+[contribution](#contribution)
+
+[tests](#tests) 
+
+[License](#License)
+
+[Questions](#Questions)
 
 
 ## installation
