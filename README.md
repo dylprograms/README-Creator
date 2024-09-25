@@ -1,3 +1,4 @@
+# readme creator   
 # Readme Creator   
 
 ## Description
@@ -22,6 +23,7 @@ Install npm and node.js
 ## Usage
 
 Use node index.js to initialize the program
+[Sample-Video](https://drive.google.com/file/d/1z520JnMjwNmp16UDY18NX273VqDd82CO/view)
 
 ## Contribution
 
