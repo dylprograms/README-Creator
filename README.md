@@ -1,8 +1,8 @@
-# Readme creator   
+# Readme Creator   
 
 ## Description
 
-creates a way for inputing information via CLI prompts to create a readme
+Creates a way for inputing information via CLI prompts to create a readme
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -25,7 +25,7 @@ Use node index.js to initialize the program
 
 ## Contribution
 
-Contribution to improve ease of use is welcome
+Any contributions for ease of use are welcome
 
 ## Tests
 
@@ -38,4 +38,4 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 ## Questions
 
-If you would like to contact me, please use my email or github username: [dylyoungprograms](https://github.com/dylprograms/NodeJSProject), dlyoungworking@gmail.com
+If you would like to contact me, please use my email or github username: [dylyoungprograms](https://github.com/dylprograms/README-Creator), dlyoungworking@gmail.com
