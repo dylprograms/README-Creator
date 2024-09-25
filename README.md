@@ -7,34 +7,29 @@ creates a way for inputing information via CLI prompts to create a readme
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
-[installation](#installation)
-
-[usage](#usage)
-
-[contribution](#contribution)
-
-[tests](#tests) 
-
-[License](#License)
-
-[Questions](#Questions)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contribution](#Contribution)
+* [Tests](#Tests) 
+* [License](#License)
+* [Questions](#Questions)
 
 
-## installation
+## Installation
 
-clone git rep
+Install npm and node.js
 
 ## Usage
 
-used to create clear readmes
+Use node index.js to initialize the program
 
-## contribution
+## Contribution
 
-contact me for more info on this
+Contribution to improve ease of use is welcome
 
-## tests
+## Tests
 
-run in node.js to see functionality 
+Run in node.js to see functionality 
 
 ## License
 
@@ -43,4 +38,4 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 ## Questions
 
-If you would like to contact me, please use my email or github username: dylyoungprograms, fake@snail.mail
+If you would like to contact me, please use my email or github username: [dylyoungprograms](https://github.com/dylprograms/NodeJSProject), dlyoungworking@gmail.com
